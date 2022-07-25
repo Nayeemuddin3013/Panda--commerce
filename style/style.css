@@ -14,3 +14,15 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+
+.panda-bg-warning {
+    background-color: orange;
+}
+
+.panda-bg-success {
+    background-color: #da70d6;
+}
+
+.panda-bg-primary {
+    background-color: #0000ff;
+}
